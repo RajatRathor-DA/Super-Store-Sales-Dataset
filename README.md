@@ -56,5 +56,5 @@ Enables faster decision-making, identifies top- and low-performing areas, and he
 🧮 Custom DAX Measures used to calculate key metrics and enable dynamic visuals.
 
 🔹 7. Screenshot or Demo
- So, the dashboard looks like - https://github.com/RajatRathor-DA/Super-Store-Sales-Dataset/blob/main/SuperStore_Sales_Dataset.png
-
+ So, the dashboard looks like 
+ example : ![Dashboard Preview].(https://github.com/RajatRathor-DA/Super-Store-Sales-Dataset/blob/main/SuperStore_Sales_Dataset.png)
