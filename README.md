@@ -15,7 +15,7 @@ Example: Power BI Desktop – The primary platform for designing, visualizing, a
 Power Query – Used for cleaning, transforming, and shaping raw data into a structured format suitable for analysis.< br / >
 DAX (Data Analysis Expressions) – Applied to build custom calculated columns and measures for dynamic KPIs such as Total Sales, Total Profit, Average Shipping Time, and Monthly Trends.< br / >
 Data Modeling – Relationships established among multiple tables (Orders, Customers, Products, Ship Modes, and Regions) to support seamless drill-through and cross-filtering interactions.< br / >
-Custom Visuals – Leveraged Power BI’s custom visuals for enhanced data representation, such as donut charts, maps, and KPI cards. < br / >
+Custom Visuals – Leveraged Power BI’s custom visuals for enhanced data representation, such as donut charts, maps, and KPI cards. < br />
 Geographic Mapping – Integrated geographic data visualization using Power BI’s map visuals to display regional performance and profitability across U.S. states.< br / >
 Slicers and Filters – Enabled user-driven interactivity through slicers for region, category, segment, and shipping mode to allow for flexible analysis.< br / >
 
@@ -26,11 +26,11 @@ Google Drive Dataset Link - https://drive.google.com/drive/folders/1HDkNHNslI3rg
 This dataset simulates retail sales data from a fictional "Super Store" and includes information on customer orders, product categories, regions, profit, sales, shipping, and more. It is widely used for learning and demonstration purposes in Power BI training content.
 
 # features / highlights 
-The best data explnanation format;
-Business Problem
-Goal of the Dashboard
-Walkthrough of Key Analyses
-Business Impact
+The best data explnanation format;< br / >
+Business Problem< br/ >
+Goal of the Dashboard< br / >
+Walkthrough of Key Analyses< br/ >
+Business Impact< br/ >
 
 EXAMPLES;
 🔹 1. Business Problem
