@@ -56,4 +56,5 @@ Enables faster decision-making, identifies top- and low-performing areas, and he
 
 # Screenshot or Demo
  So, the dashboard looks like 
- example : ![Dashboard Preview].(https://github.com/RajatRathor-DA/Super-Store-Sales-Dataset/blob/main/SuperStore_Sales_Dataset.png)
+ example : <img width="506" alt="SuperStore_Sales_Dataset" src="https://github.com/user-attachments/assets/d9fa5a00-128a-4a24-bd23-33242f102eb8" />
+
