@@ -11,7 +11,7 @@ Example: The Super Store Sales Dashboard is a visually engaging and analytical P
 # Tech Stack
 List the key technologies used to build the dashboard. 
 Example: Power BI Desktop – The primary platform for designing, visualizing, and publishing the interactive dashboard.
-Power Query – Used for cleaning, transforming, and shaping raw data into a structured format suitable for analysis.< br />
+Power Query – Used for cleaning, transforming, and shaping raw data into a structured format suitable for analysis.<br />
 DAX (Data Analysis Expressions) – Applied to build custom calculated columns and measures for dynamic KPIs such as Total Sales, Total Profit, Average Shipping Time, and Monthly Trends.<br />
 Data Modeling – Relationships established among multiple tables (Orders, Customers, Products, Ship Modes, and Regions) to support seamless drill-through and cross-filtering interactions.<br />
 Custom Visuals – Leveraged Power BI’s custom visuals for enhanced data representation, such as donut charts, maps, and KPI cards. <br />
@@ -28,8 +28,9 @@ The best data explnanation format;.<br />
 Business Problem.<br />
 Goal of the Dashboard.<br />
 Walkthrough of Key Analyses.<br />
-Business Impact.<br />
 
+
+# Business Impact.<br />
 EXAMPLES;
 🔹 1. Business Problem
 Retail teams lack real-time visibility into sales performance across regions, segments, and categories, making it difficult to make data-driven decisions.<br />
@@ -42,7 +43,6 @@ Enables faster decision-making, identifies top- and low-performing areas, and he
 
 
 # Key Features of the Dashboard
-
 📊 Interactive KPIs showing Total Sales, Total Profit, Quantity Sold, and Average Shipping Time.<br />  
 🧾 Customer Segment Analysis (Consumer, Corporate, Home Office) to understand buyer behavior.<br />
 📦 Product Sub-Category Insights for identifying high-performing and low-margin product lines.<br />
