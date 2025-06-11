@@ -1,5 +1,4 @@
 #Super-Store-Business-Intelligence-Dashboard
-Recomended Structure and Order
 # Project Title / Headline 
 A concise, descriptive name for the dashboard.<br />
 Example: Super Store Business Intelligence Dashboard
