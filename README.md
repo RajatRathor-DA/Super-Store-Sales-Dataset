@@ -33,7 +33,7 @@ Business Impact< br/>
 
 EXAMPLES;
 🔹 1. Business Problem
-Retail teams lack real-time visibility into sales performance across regions, segments, and categories, making it difficult to make data-driven decisions.< br />
+Retail teams lack real-time visibility into sales performance across regions, segments, and categories, making it difficult to make data-driven decisions.<br />
 🔹 2. Goal of the Dashboard
 To create an interactive Power BI dashboard that visualizes key sales metrics, highlights trends, and supports strategic business analysis.< br />
 🔹 3. Key Analysis Walkthrough
