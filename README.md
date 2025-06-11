@@ -6,7 +6,7 @@ Example: Super Store Business Intelligence Dashboard
 A dynamic, interactive data visualization tool built to explore Super Store sales data across regions—focusing on payment modes, shipping methods, product categories, customer segments, and regional profitability.
 
 # Short Description / Purpose 
-1-2 sentences explaining what the dashboard does and why it exists. < br />
+1-2 sentences explaining what the dashboard does and why it exists. <br />
 Example: The Super Store Sales Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare sales performance across different regions, product categories, and customer segments. This tool is intended for use by retail analysts, business managers, and decision-makers seeking to understand key sales trends, profitability, and operational efficiency across various dimensions.
 
 # Tech Stack
@@ -43,6 +43,7 @@ Enables faster decision-making, identifies top- and low-performing areas, and he
 
 
 # Key Features of the Dashboard
+
 📊 Interactive KPIs showing Total Sales, Total Profit, Quantity Sold, and Average Shipping Time.<br />  
 🧾 Customer Segment Analysis (Consumer, Corporate, Home Office) to understand buyer behavior.<br />
 📦 Product Sub-Category Insights for identifying high-performing and low-margin product lines.<br />
