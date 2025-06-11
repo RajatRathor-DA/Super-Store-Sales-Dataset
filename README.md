@@ -1,7 +1,7 @@
 #Super-Store-Business-Intelligence-Dashboard
 Recomended Structure and Order
 # Project Title / Headline 
-A concise, descriptive name for the dashboard.< br />
+A concise, descriptive name for the dashboard.<br />
 Example: Super Store Business Intelligence Dashboard
 A dynamic, interactive data visualization tool built to explore Super Store sales data across regions—focusing on payment modes, shipping methods, product categories, customer segments, and regional profitability.
 
