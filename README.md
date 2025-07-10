@@ -20,7 +20,7 @@ Slicers & Filters — For Region, Segment, Date Range, and Sub-Category to suppo
 Google Drive Dataset Link - https://drive.google.com/drive/folders/1HDkNHNslI3rgCv9LZzGtxag8JvYzss-b<br />
 The dataset is publicly available via a Power BI YouTube tutorial and can be accessed here:Google Drive Dataset LinkIt simulates a fictional "Super Store" and includes detailed order-level data on sales, profit, quantity, shipping, regions, and customer segments.<br />
 
-## 🚀Features & Highlights
+# 🚀Features & Highlights
 
 ## 🛠️Business Problem
 Retail teams struggled with fragmented visibility into regional and segment-wise sales, making strategic optimization difficult.
