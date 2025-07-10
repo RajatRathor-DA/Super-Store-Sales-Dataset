@@ -1,10 +1,10 @@
 # Super-Store-Business-Intelligence-Dashboard
 
-## 💡Project Title / Headline
+## 💡Project Title ( Headline ) 
 
 Super Store Business Intelligence DashboardA dynamic, interactive visualization tool designed to analyze Super Store sales performance across multiple dimensions—enabling deeper insights into regional trends, product categories, shipping methods, customer segments, and overall profitability.
 
-## 📝Short Description / Purpose
+## 📝Short Description ( Purpose )
 
 The Super Store Sales Dashboard is an interactive Power BI report built to help business managers and analysts explore $2M in total sales, 22K units sold, $175K profit, and a 10-day average shipping time. It empowers data-driven decision-making by clearly highlighting key performance drivers and operational bottlenecks.
 
@@ -63,5 +63,6 @@ The Super Store Business Intelligence Dashboard provides a clear, comprehensive,
 ## 🤝Feedback & Collaboration
 Your feedback is welcome!If you'd like to collaborate on similar data analytics, visualization, or business intelligence projects, feel free to connect or drop a message.<br />
 🎯 Ready to transform data into actionable business insights!
-**Conatact No-** 8368281311 **Email-** rajatrathor6002@gmail.com
+**Conatact No-** 8368281311 
+**Email-** rajatrathor6002@gmail.com
 
