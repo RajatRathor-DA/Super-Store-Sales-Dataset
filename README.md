@@ -22,13 +22,13 @@ The dataset is publicly available via a Power BI YouTube tutorial and can be acc
 
 ## 🚀Features & Highlights
 
-**🛠️ Business Problem**
+## 🛠️Business Problem
 Retail teams struggled with fragmented visibility into regional and segment-wise sales, making strategic optimization difficult.
 
-**🎯 Goal of the Dashboard**
+## 🎯 Goal of the Dashboard 
 To provide a unified, interactive dashboard enabling a clear view of sales metrics, trends, and profitability to drive faster, data-backed decisions.
 
-**🔎 Key Analysis Walkthrough**
+## 🔎Key Analysis Walkthrough
 Sales by Region: The West region leads with 33% of total sales, followed by East (29%), Central (22%), and South (16%).<br />
 Payment Mode Analysis: COD dominates with 43% share, followed by Online (35%) and Cards (22%).<br />
 Shipping Analysis: Standard Class is the most used mode with $0.42M in sales, supporting cost-efficient delivery strategies.<br />
