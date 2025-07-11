@@ -55,7 +55,8 @@ Improved executive-level decision-making using interactive, drill-down analytics
 
 ## 📸Screenshot or Demo
 
-Example:
+Example: <img width="379" height="227" alt="super store sales dashboard" src="https://github.com/user-attachments/assets/b09be98d-2eb7-4450-866f-d90382d96730" />
+
  
  ## ✨Conclusion
 The Super Store Business Intelligence Dashboard provides a clear, comprehensive, and interactive view of overall sales performance, customer behavior, and operational trends. By integrating multiple analytical perspectives, it enables business leaders to identify growth opportunities, optimize inventory, and improve profitability. With actionable
